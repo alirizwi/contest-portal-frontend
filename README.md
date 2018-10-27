@@ -23,7 +23,7 @@ yarn install
 This is the dev server which will auto refresh when you edit any file
 
 Open a new window in your Terminal.
-Enter the directory.
+Enter the directory
 ```
 yarn start
 ```
